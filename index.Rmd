@@ -41,7 +41,7 @@ output:
  - **Período**: Segundo semestre de 2023.
 
  - **Locais e horários**:
-    - Quinta, 7:30 - 11:30, ANFI-600.
+    - Quinta, 7:30 - 11:30, ANFI-900.
 
 \ 
 
@@ -52,7 +52,7 @@ output:
  - **Datas importantes**:
     - **24/07/23**: início do período letivo.
     - **02/12/23**: término do período letivo.
-    - **04/07/23 a 09/12/23**: semana de exames finais.
+    - **04/12/23 a 09/12/23**: semana de exames finais.
 
 ---
 
