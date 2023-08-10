@@ -45,8 +45,8 @@ output:
 **Semana 3**
 
  - 10/08/23 (qui) - Aula 2:
-    - Parte 1:
-    - Parte 2:
+    - Parte 1: Análise exploratória univariada: tabelas e gráficos para variáveis qualitativas.
+    - Parte 2: Análise exploratória univariada: tabelas e gráficos para variáveis quantitativas.
     
 **Semana 4**
 
