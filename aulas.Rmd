@@ -51,8 +51,8 @@ output:
 **Semana 4**
 
  - 17/08/23 (qui) - Aula 3:
-    - Parte 1:
-    - Parte 2:
+    - Parte 1: Análise exploratória univariada: medidas descritivas (posição).
+    - Parte 2: Análise exploratória univariada: medidas descritivas (dispersão).
     
 **Semana 5**
 
