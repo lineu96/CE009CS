@@ -79,36 +79,32 @@ output:
 **Semana 9**
 
  - 21/09/23 (qui) - Aula 7:
-    - Parte 1: Exercícios
-    - Parte 2:
+    - Parte 1: Exercícios.
+    - Parte 2: Variáveis aleatórias.
     
 **Semana 10**
 
  - 28/09/23 (qui) - Aula 8:
-    - Parte 1:
-    - Parte 2:
+    - Parte 1: Distribuições de probabilidade.
+    - Parte 2: Exercícios.
     
 **Semana 11**
 
  - 05/10/23 (qui) - Aula 9:
-    - Parte 1:
-    - Parte 2:
+    - Parte 1: **TIRA DÚVIDAS.**
+    - Parte 2: **PROVA 1.**
     
 **Semana 12**
 
  - 12/10/23 (qui) - **Feriado: Nossa Senhora Aparecida.**
-    - Parte 1:
-    - Parte 2:
     
 **Semana 13**
 
- - 19/10/23 (qui) - Aula 10:
-    - Parte 1:
-    - Parte 2:
+ - 19/10/23 (qui) -  **SIEPE**
     
 **Semana 14**
 
- - 26/10/23 (qui) - Aula 11:
+ - 26/10/23 (qui) - Aula 10:
     - Parte 1:
     - Parte 2:
     
@@ -120,25 +116,25 @@ output:
     
 **Semana 16**
 
- - 09/11/23 (qui) - Aula 12:
+ - 09/11/23 (qui) - Aula 11:
     - Parte 1:
     - Parte 2:
     
 **Semana 17**
 
- - 16/11/23 (qui) - Aula 13:
+ - 16/11/23 (qui) - Aula 12:
     - Parte 1:
     - Parte 2:
     
 **Semana 18**
 
- - 23/11/23 (qui) - Aula 14:
+ - 23/11/23 (qui) - Aula 13:
     - Parte 1:
     - Parte 2:
     
 **Semana 19**
 
- - 30/11/23 (qui) - Aula 15:
+ - 30/11/23 (qui) - Aula 14:
     - Parte 1:
     - Parte 2:
     
