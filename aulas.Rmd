@@ -92,7 +92,7 @@ output:
 
  - 05/10/23 (qui) - Aula 9:
     - Parte 1: Exercícios.
-    - Parte 2: 
+    - Parte 2: Exercícios.
     
 **Semana 12**
 
@@ -106,13 +106,11 @@ output:
 
  - 26/10/23 (qui) - Aula 10:
     - Parte 1: **TIRA DÚVIDAS.**
-    - Parte 2: **PROVA 1.**
+    - Parte 2: **PROVA 2.**
     
 **Semana 15**
 
  - 02/11/23 (qui) - **Feriado: Finados**
-    - Parte 1:
-    - Parte 2:
     
 **Semana 16**
 
