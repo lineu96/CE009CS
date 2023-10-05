@@ -63,8 +63,8 @@ output:
 **Semana 6**
 
  - 31/08/23 (qui) - Aula 5:
-    - Parte 1: **TIRA DÚVIDAS.**
-    - Parte 2: **PROVA 1.**
+    - Parte 1: **TIRA DÚVIDAS (das 07:30 até 08:30)**
+    - Parte 2: **PROVA 1 (das 08:30 até 11:00)**
     
 **Semana 7**
 
@@ -105,8 +105,8 @@ output:
 **Semana 14**
 
  - 26/10/23 (qui) - Aula 10:
-    - Parte 1: **TIRA DÚVIDAS.**
-    - Parte 2: **PROVA 2.**
+    - Parte 1: Introdução à Inferência Estatística.
+    - Parte 2: 
     
 **Semana 15**
 
@@ -115,8 +115,8 @@ output:
 **Semana 16**
 
  - 09/11/23 (qui) - Aula 11:
-    - Parte 1:
-    - Parte 2:
+    - Parte 1: **TIRA DÚVIDAS (das 07:30 até 08:30)**
+    - Parte 2: **PROVA 1 (das 08:30 até 11:00)**
     
 **Semana 17**
 
