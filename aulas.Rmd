@@ -106,7 +106,7 @@ output:
 
  - 26/10/23 (qui) - Aula 10:
     - Parte 1: Introdução à Inferência Estatística.
-    - Parte 2: 
+    - Parte 2: Estimação pontual e intervalar.
     
 **Semana 15**
 
@@ -121,8 +121,8 @@ output:
 **Semana 17**
 
  - 16/11/23 (qui) - Aula 12:
-    - Parte 1:
-    - Parte 2:
+    - Parte 1: Tamanho amostral.
+    - Parte 2: Exercícios.
     
 **Semana 18**
 
