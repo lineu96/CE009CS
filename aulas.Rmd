@@ -127,8 +127,8 @@ output:
 **Semana 18**
 
  - 23/11/23 (qui) - Aula 13:
-    - Parte 1:
-    - Parte 2:
+    - Parte 1: Testes de hipóteses
+    - Parte 2: Exercícios
     
 **Semana 19**
 
