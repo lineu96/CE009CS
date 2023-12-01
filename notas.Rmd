@@ -83,9 +83,9 @@ soma_parciais <- rowSums(notas[,c('PROVA 1', 'PROVA 2',
                                   'PROVA 3', 'MÉDIA REMOTAS')], 
                          na.rm = T)
 
-menor_parcial <- pmin(notas$`PROVA 1`, 
-                      notas$`PROVA 2`, 
-                      notas$`PROVA 3`, 
+menor_parcial <- pmin(ifelse(is.na(notas$`PROVA 1`),0, notas$`PROVA 1`), 
+                      ifelse(is.na(notas$`PROVA 2`),0, notas$`PROVA 2`), 
+                      ifelse(is.na(notas$`PROVA 3`),0, notas$`PROVA 3`), 
                       notas$`MÉDIA REMOTAS`,
                       na.rm = T)
 
